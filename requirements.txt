@@ -1,0 +1,16 @@
+1. Place the CMAPSS dataset files in the `data` directory or update file paths in the scripts.
+
+2. Run each phase sequentially:
+- Phase 1 and 2: `python phase2.py`
+- Phase 3: `python phase3.py`
+- Phase 4: `python phase4.py`
+
+## Dependencies
+
+- Python 3.7+
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- joblib
